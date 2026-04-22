@@ -27,7 +27,7 @@
 
 **Back-end & Linguagens**
 
-<img src="https://skillicons.dev/icons?i=java,spring" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven" />
 
 **Banco de Dados**
 
