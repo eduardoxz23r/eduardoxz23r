@@ -4,11 +4,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eduardoxz23r&color=00d9ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/eduardoxz23r?color=00d9ff&style=flat-square&logo=github&label=Followers" alt="Followers"/>
-</div>
-
 ---
 
 ## 👨‍💻 Sobre mim
@@ -64,7 +59,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-909437294)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloseduardolopes786@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-PDF-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://drive.google.com/file/d/1wCgCH02zuuXqUeSWXQ308vJuyzFK8aOq/view?usp=sharing)
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://drive.google.com/file/d/1P_zxBqMahs1qn8gZHG5f1URi6fYkdYxn/view?usp=sharing)
 
 </div>
 
