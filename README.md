@@ -59,7 +59,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-909437294)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloseduardolopes786@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-PDF-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://drive.google.com/file/d/1seSb5-jYWXwNBO-cfPzjaCg29eK_Ec6B/view?usp=sharing)
+[![Currículo](https://img.shields.io/badge/Currículo-PDF-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://drive.google.com/file/d/1KbAqRzeSAzXp488w8nKfOoDf9vhkdcoL/view?usp=sharing)
 
 </div>
 
