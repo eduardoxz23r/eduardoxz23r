@@ -10,8 +10,8 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (conclusão: Ago/2027)
 - 🚀 Buscando minha primeira oportunidade como **Desenvolvedor Java Jr.** ou **Auxiliar de TI**
-- ⚙️ Experiência prática com **Java (POO)** e **Spring Boot** criando APIs REST com MySQL
-- 🧠 Focado em **Clean Code**, boas práticas e arquitetura de software
+- ⚙️ Experiência prática com **Java (POO)** e **Spring Boot** criando APIs REST com **MySQL** e **PostgreSQL**
+- 🧠 Estudando **Clean Code**, boas práticas e organização de código em camadas
 - 💬 Apaixonado por tecnologia e sempre em busca de evoluir
 
 ---
@@ -26,7 +26,7 @@
 
 **Banco de Dados**
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 **Front-end Básico**
 
@@ -34,7 +34,7 @@
 
 **Ferramentas & Ambiente**
 
-<img src="https://skillicons.dev/icons?i=idea,vscode,postman,git,github" />
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman,git,github,docker" />
 
 </div>
 
